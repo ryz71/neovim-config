@@ -1,1 +1,1 @@
-**minimalist config neovim**
+######ryz/neovim-config######
